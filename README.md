@@ -9,3 +9,7 @@
 ## Tools
   -  https://github.com/JosefPihrt/Roslynator
   -  https://dzone.com/articles/top-20-refactoring-features
+  
+## Keywords to search
+  -  Refactor comparison
+  -  refactor design comparison
